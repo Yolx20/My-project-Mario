@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: cf13b846317d36f41a55c4d827b67b45
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 257
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9815b9bcb39fc498ed0f80e80fb9ac
+      internalID: -967414306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 257
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2a527aa32093e4ca74afbd54ba8543
+      internalID: -724560085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 257
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b775cc8ac20dad543af22ddc9bb970f4
+      internalID: -404887811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 257
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e70cd777ffa794b831f91e065ee898
+      internalID: 495892247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 257
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a05fe069cad5a40b590f0f86ab3b83
+      internalID: 738116536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c2dd7ea45b4ab46bebfbf4aaa9aab3
+      internalID: 19520275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 192
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a792634233e41419e1b6b04a0e38f7
+      internalID: -1047358191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 193
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4839ac6aabdc142a506fc34143deb5
+      internalID: 300830384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 193
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74859fc81cc09945ad9a720b1335149
+      internalID: -357081280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 193
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9569c3b6b9c70354cabe7d8fd3bdb268
+      internalID: -1655280993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 193
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2839283a60fbcbc428f8ba844902e20f
+      internalID: -681264894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 194
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 22, y: 0, z: 12, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f745c3e5936ef42a27451817538a81
+      internalID: -1840248314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 193
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033ec169ef6fe494bbaab151eb496b1f
+      internalID: -1792661737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 193
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4831b03c174fed4478b25ee2ba09061c
+      internalID: -1827937051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 193
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f3bd9f01835ee4c93932205bbb95a1
+      internalID: -703745591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 193
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7d56f6344c2584d9082aefcd9549d8
+      internalID: 92463481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 193
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bb602be3f77f846a522be1eec6fcc0
+      internalID: -913367046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 129
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe89e4f422540dc4db2a07e4e43052fb
+      internalID: -332642626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 129
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feec8b78f4115ac4d9ccd1221f2f79f9
+      internalID: 109620892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 129
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c2d18da65bddb47a574d7407000104
+      internalID: 1132844606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 129
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f103ecbb7af5f4baf59fc2a0580359
+      internalID: 1633906782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 129
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18977dbf7d7c12547bcce434430dd0b3
+      internalID: 1501693909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788d49e79ca0e304b91b3688d6be6272
+      internalID: 772269776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 65
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0a8c97eb71255419dbfe69700f2fee
+      internalID: 751102874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 65
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8c7aeb4b1dda7498b3e30acc80c6b0
+      internalID: 2016848537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 90
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89514cad099aa194c9afc42ce248327e
+      internalID: -1440689494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 90
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528702367499bb14c8547d09bb2e193a
+      internalID: 187756609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 87
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb63de15826dfb4c9824c58fdbe0316
+      internalID: -712639780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 86
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc69945af18b1654399e25ef2b545af1
+      internalID: 1383896597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe77a48eb3f13044aa7f5e510c208180
+      internalID: -363559126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 86
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe29b2211220754a9ec952240b9e4db
+      internalID: -19962407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_9: -1655280993
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_22: 772269776
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_25: -1440689494
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_3: 495892247
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_6: -1047358191
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_8: -357081280
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_24: 2016848537
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_1: -724560085
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_16: -913367046
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_2: -404887811
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_17: -332642626
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_21: 1501693909
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_11: -1840248314
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_27: -712639780
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_26: 187756609
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_19: 1132844606
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_28: 1383896597
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_20: 1633906782
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_30: -19962407
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_0: -967414306
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_23: 751102874
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_5: 19520275
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_18: 109620892
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_29: -363559126
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_14: -703745591
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_12: -1792661737
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_15: 92463481
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_7: 300830384
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_4: 738116536
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_10: -681264894
+      gomez_segovia_yolanda_A3D_AE2D3D_06_spritesheet_13: -1827937051
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
