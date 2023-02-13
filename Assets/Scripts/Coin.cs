@@ -4,23 +4,17 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
+    public int coinValue = 1;
     public int value;
-    // Start is called before the first frame update
-    void Start()
+  
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.gameObject.CompareTag("Player"))
+        if (collision.CompareTag("player"))
+            
         {
+            ScoreManager.instance.ChangeCoinScore(coinValue);
             Destroy(gameObject);
+           
         }
     }
 }

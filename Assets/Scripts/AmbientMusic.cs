@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class AmbientMusic : MonoBehaviour
 {
-    public AudioClip ambientmusic;
+    public AudioClip Ambientmusic;
     [Range(0, 1)]
     public float volumeMusic;
     // Start is called before the first frame update
     void Start()
     {
-        AudioManager.Instance.PlayAudioOnLoop(ambientmusic, volumeMusic);   
+        AudioManager.instance.PlayAudioOnLoop(Ambientmusic, volumeMusic);   
     }
 
     // Update is called once per frame
