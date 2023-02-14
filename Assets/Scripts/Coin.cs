@@ -4,17 +4,26 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
-    public int coinValue = 1;
-    public int value;
-  
-    private void OnTriggerEnter2D(Collider2D collision)
+    [SerializeField] private float coin;
+    public AudioClip coinSound;
+    [Range(0, 1)]
+    public float coinVolume;
+        
+     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("player"))
-            
+        if (collision.CompareTag("Player"))
         {
-            ScoreManager.instance.ChangeCoinScore(coinValue);
-            Destroy(gameObject);
-           
+            GetComponent<SpriteRenderer>().enabled = false;
         }
+    }// Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
     }
 }
