@@ -12,7 +12,7 @@ public class GoombaController : MonoBehaviour
 
     private void Start()
     {
-        player = GameObject.FindGameObjectWithTag("player"); 
+        player = GameObject.FindGameObjectWithTag("Player"); 
     }
 
     // Update is called once per frame
@@ -42,7 +42,7 @@ public class GoombaController : MonoBehaviour
                 moveRight = true;
             }
 
-            if (collision.gameObject.tag == "player")
+            if (collision.gameObject.tag == "Player")
             {
                 float yOffset = 0.5f;
                 if (transform.position.y+yOffset  < collision.transform.position.y)

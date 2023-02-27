@@ -85,8 +85,9 @@ public class PlayerControler : MonoBehaviour
             isJumping = false;
         }
 
-        if (death)
+        if (death) 
         {
+            Debug.Log("esta muerto");
             speed = 0;
             jumpPower = 0;
             animator.SetTrigger("Death");
